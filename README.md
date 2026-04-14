@@ -1,1 +1,1 @@
-# GitHub-Cloud-Lab
+# GitHub Cloud Lab
